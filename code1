@@ -1,0 +1,17 @@
+Public class a
+{
+  int a=20;
+   int b=20;
+public void m1()
+{
+  system .out .println("Addition of two number"+ a+b);
+}
+public static void main (string []args)
+{
+  a s1=new a();
+s1.m1;
+}
+}
+
+
+
